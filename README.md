@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![Qamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=QamarAlkhatib&theme=onedark&show_icons=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qamaralkhatib&label=Profile%20views&color=0e75b6&style=flat" alt="qamaralkhatib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qamaralkhatib&label=Profile%20views&color=CE3A3A&style=flat" alt="qamaralkhatib" /> </p>
 
 
 
