@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced Software Development in Python by Code Fellows 401**
 - 📫 How to reach me **q.alkhatib0@gmail.com**
 - 😄 Pronouns: She/Her
-
+<hr>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My GitHub stats
 <p align="left">
@@ -36,6 +36,7 @@
 ![Scikit-learn](https://shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikit-learn&logoColor=Yellow)&nbsp;
 ![Django](https://shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=green)&nbsp;
 ![Intellij idea](https://shields.io/badge/-Intellij-05122A?style=flat&logo=Intellijidea&logoColor=563D7C)&nbsp;
+<hr>
 
-  
+### 😂&nbsp;Funny Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
