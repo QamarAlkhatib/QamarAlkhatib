@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamarAlkhatib&label=Profile%20views&color=CE3A3A&style=flat" alt="qamaralkhatib" /> <a href="https://www.linkedin.com/in/qamar-alkhatib-45bb321a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/> </a></p>
 
-- 🌱 I’m currently learning **Advanced Software Development in Python by Code Fellows 401**
+- 🌱 I’m currently Looking for a job as a Full-Stack Python Developer
 - 📫 How to reach me **q.alkhatib0@gmail.com**
 - 😄 Pronouns: She/Her
 <hr>
