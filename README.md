@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true"width="30px"/> Hi, I'm Qamar Alkhatib</h1>
+<h1 align="center"> Hi, I'm Qamar Alkhatib</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamarAlkhatib&label=Profile%20views&color=CE3A3A&style=flat" alt="qamaralkhatib" /> <a href="https://www.linkedin.com/in/qamar-alkhatib-45bb321a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/> </a></p>
@@ -9,8 +9,8 @@
 - 😄 Pronouns: She/Her
 <hr>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My GitHub stats
-<p align="left">
+<!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My GitHub stats
+<p align="left"> -->
 
 ![Qamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=QamarAlkhatib&theme=tokyonight&show_icons=true)  
 
